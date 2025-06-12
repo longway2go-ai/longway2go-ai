@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 2nd year Masters student pursuing Statistics & Computing at BHU.<br>🌱 I’m actively learning LLMs and GenAI.<br>💬 Ask me about Statistics, Artificial Intelligence and Business Intelligence.<br>⚡ I'm strong passionate about Data Science / AI. <br> 🚀 Always open to collaboration, new ideas, and challenges.
+🔭 2nd year Masters student pursuing Statistics & Computing at BHU.<br>🌱 I’m actively learning LLMs and GenAI.<br>💬 Ask me about Statistics, Machine Learning and Business Intelligence.<br>⚡ I'm strong passionate about Data Science / AI. <br> 🚀 Always open to collaboration, new ideas, and challenges.
 
 
 ## 🌐 Socials:
