@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 2nd year Masters student pursuing Statistics & Computing at BHU.<br>🌱 I’m actively learning LLMs and GenAI.<br>💬 AI/ML Intern at CodimAI | GenAI Trainee at SpectoV | Summer Research Intern at Innovation unit, ISI Kolkata.<br>⚡ I'm strong passionate about Data Science / AI. <br> 🚀 Always open to collaboration, new ideas, and challenges.
+🔭 2nd year Masters student pursuing Statistics & Computing at BHU.<br>🌱 I’m actively learning LLMs and GenAI.<br>💬 GenAI Trainee Intern at SpectoV | Summer Research Intern at Innovation unit, ISI Kolkata.<br>⚡ I'm strong passionate about Data Science / AI. <br> 🚀 Always open to collaboration, new ideas, and challenges.
 
 
 ## 🌐 Socials:
